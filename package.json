@@ -1,0 +1,23 @@
+{
+  "name": "trungtran1905",
+  "version": "1.0.1",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@gauminhduc",
+  "license": "ISC",
+  "repository": "https://github.com/ydhhvjfh/tea.git",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21",
+    "sass-loader": "^14.1.1",
+    "lamnguyen715": "^1.0.5",
+    "trungtran1905": "^1.0.1",
+    "thanhnguyen3008": "^1.0.1",
+    "huongthao969": "^1.0.1",
+    "thanhnghihn": "^1.0.1",
+    "hongtran512": "^1.0.1",
+    "hungnguyen0706": "^1.0.1",
+    "minhduc301217": "^1.0.1"
+  }
+}
